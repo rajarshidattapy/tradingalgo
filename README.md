@@ -1,1 +1,4 @@
-# tradingalgo
+# Zerodha trading algo 
+
+- by hkirat
+
